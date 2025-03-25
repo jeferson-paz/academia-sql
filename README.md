@@ -21,7 +21,7 @@ A base contém informações de alunos como nome, idade, sexo, plano contratado,
 
 - A maioria dos alunos está no plano **Básico**, seguido pelos planos **Premium** e **VIP**.
   
-![Gráfico - Alunos por Plano](imagens/quantidade_de_alunos_por_plano.png)
+![Gráfico - Alunos por Plano](Imagens/quantidade_de_alunos_por_plano.png)
 
 ---
 
@@ -35,7 +35,7 @@ A base contém informações de alunos como nome, idade, sexo, plano contratado,
 
 - A diversidade de objetivos mostra que a academia atende perfis variados.
 
-![Gráfico - Objetivos](imagens/distribuição_dos_objetivos_dos_alunos.png)
+![Gráfico - Objetivos](Imagens/distribuição_dos_objetivos_dos_alunos.png)
 
 ---
 
@@ -44,7 +44,7 @@ A base contém informações de alunos como nome, idade, sexo, plano contratado,
 - Um número significativo de alunos está com pagamento **atrasado** ou **pendente**.
 - Isso pode representar risco de evasão ou problemas financeiros para a academia.
 
-![Gráfico - Pagamento](imagens/status_de_pagamento_dos_alunos.png)
+![Gráfico - Pagamento](Imagens/status_de_pagamento_dos_alunos.png)
 
 ---
 
@@ -52,7 +52,7 @@ A base contém informações de alunos como nome, idade, sexo, plano contratado,
   - A maioria dos alunos avalia a academia como **"Regular"**, indicando insatisfação.
   - Existem também avaliações **"Excelente"** e **"Insatisfeito"**, que merecem atenção especial.
 
-![Gráfico - Avaliação](imagens/distribuição_das_classes_de_avaliação.png)
+![Gráfico - Avaliação](Imagens/distribuição_das_classes_de_avaliação.png)
 
 ---
 
@@ -61,7 +61,7 @@ A base contém informações de alunos como nome, idade, sexo, plano contratado,
 - A maior parte dos alunos realizou entre **40 e 90 aulas**, indicando uma boa taxa de frequência.
 - Alunos com maior participação tendem a estar nos planos VIP ou Basico.
 
-![Gráfico - Aulas Realizadas](imagens/distribuição_de_aulas_realizadas_por_tipo_de_lano.png)
+![Gráfico - Aulas Realizadas](Imagens/distribuição_de_aulas_realizadas_por_tipo_de_lano.png)
 
 ---
 
