@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este relatório tem como objetivo analisar os dados de uma academia fictícia, utilizando **SQLite** para armazenamento e **Python com Pandas, Matplotlib e Seaborn** para análise e visualização. Os dados foram inspirados no livro *"Fundamentos da Linguagem SQL"* de Thomas Nield, e a proposta é simular um cenário real para demonstrar habilidades com **SQL, ETL, análise exploratória e storytelling com dados**.
+Este relatório tem como objetivo analisar os dados de uma academia fictícia, utilizando **SQLite** para armazenamento e **Python com Pandas, Matplotlib e Seaborn** para análise e visualização. Os dados foram inspirados no livro *"Introdução a Linguagem SQL"* de Thomas Nield, e a proposta é simular um cenário real para demonstrar habilidades com **SQL, ETL, análise exploratória e storytelling com dados**.
 
 A base contém informações de alunos como nome, idade, sexo, plano contratado, status de pagamento, aulas realizadas, objetivo com a academia e classe de avaliação.
 
